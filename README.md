@@ -1,2 +1,5 @@
-# whatIlove
-This is a Html and Css project that will show case the things that i love 
+# THis is heading 1
+
+## This is heading 2
+
+### This is heading 3
